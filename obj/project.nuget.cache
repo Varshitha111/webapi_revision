@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8fAhMe1HXMM=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\varshitha.guda\\OneDrive - Acuvate Software Private Limited\\webapi\\revision\\webapidemo\\webapidemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\varshitha.guda\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.12\\microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "C:\\Users\\varshitha.guda\\.nuget\\packages\\microsoft.openapi\\2.12.0\\microsoft.openapi.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
